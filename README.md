@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/-Python-011627?style=for-the-badge&logo=python"  />
   </div>
 
-## Social
+## Find me on
 
 <br />
 

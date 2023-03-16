@@ -8,12 +8,12 @@
 
 <br />
 
-<div align="center">
+<div align="left">
   <a href="https://github-readme-stats.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api?username=huypham501&show_icons=true&hide=issues,stars&title_color=D72638&text_color=F0EFF4&icon_color=D72638&bg_color=011627&hide_border=true" alt="Huy Pham's GitHub stats" />
   </a>
 </div>
-<div align="center">
+<div align="left">
   <a href="https://github-readme-streak-stats.herokuapp.com">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=huypham501&stroke=F0EFF4&background=011627&ring=D72638&fire=D72638&currStreakNum=F0EFF4&currStreakLabel=D72638&sideNums=F0EFF4&sideLabels=F0EFF4&dates=F0EFF4&hide_border=true" alt="Huy Pham's GitHub streak"/>
   </a>

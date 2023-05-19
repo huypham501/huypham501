@@ -1,28 +1,9 @@
 <h2 align="center">Hi I'm Huy Pham 👋</h2>
- 
 <br />
-
-<p>I'm software developer growing in front-end web development and heading to a full-stack web, and mobile application developer.</p>
-
-## Github stats
-
-<br />
-
-<div align="left">
-  <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api?username=huypham501&show_icons=true&hide=issues,stars&title_color=D72638&text_color=F0EFF4&icon_color=D72638&bg_color=011627&hide_border=true" alt="Huy Pham's GitHub stats" />
-  </a>
-</div>
-<div align="left">
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huypham501&stroke=F0EFF4&background=011627&ring=D72638&fire=D72638&currStreakNum=F0EFF4&currStreakLabel=D72638&sideNums=F0EFF4&sideLabels=F0EFF4&dates=F0EFF4&hide_border=true" alt="Huy Pham's GitHub streak"/>
-  </a>
-</div>
+<p>I'm software developer growing in full-stack web development and heading to expand my skills to include mobile developer.</p>
 
 ## Experienced with
-
 <br />
-
 <div align="left">
     <img src="https://img.shields.io/badge/-JavaScript-011627?style=for-the-badge&logo=javascript"  />
     <img src="https://img.shields.io/badge/-TypeScript-011627?style=for-the-badge&logo=typescript"  />
@@ -43,9 +24,7 @@
   </div>
 
 ## Find me on
-
 <br />
-
 <div align="left">
   <a href="https://stackoverflow.com/users/13653797/huypham" target="_blank">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/13653797?color=orange&label=reputation&logo=stackoverflow"  />
@@ -65,3 +44,17 @@
     <img src="https://img.shields.io/badge/Messenger-_-_?style=social&logo=messenger"  />
   </a>
 </div>
+
+## Github stats
+<br />
+<div align="left">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=huypham501&show_icons=true&hide=issues,stars&title_color=08A4BD&text_color=F0EFF4&icon_color=08A4BD&bg_color=011627&hide_border=true" alt="Huy Pham's GitHub stats" />
+  </a>
+</div>
+<div align="left">
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huypham501&stroke=F0EFF4&background=011627&ring=08A4BD&fire=08A4BD&currStreakNum=F0EFF4&currStreakLabel=08A4BD&sideNums=F0EFF4&sideLabels=F0EFF4&dates=F0EFF4&hide_border=true" alt="Huy Pham's GitHub streak"/>
+  </a>
+</div>
+
